@@ -1,0 +1,194 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.mypic {
+  margin: 0 auto 0 auto;
+  height: 200px;
+  width: 200px;
+}
+
+
+
+.name :hover {
+  color: blue;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  background-color: oldlace;
+  color: tomato;
+  font-family: 'Alkatra', cursive;
+  letter-spacing: 9px;
+}
+
+.name {
+  color: darkred;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  padding-bottom: 30px;
+  margin: 0%;
+  height: 80px;
+}
+
+.hlo {
+  color: black;
+  font-family: 'Noto Serif', serif;
+  font-stretch: semi-expanded;
+  font-size: x-large;
+  text-shadow:whitesmoke;
+  margin: 10px auto 10px auto;
+}
+
+h2 {
+  font-weight: 600;
+  color: darkblue;
+  font-family: 'Merriweather', serif;
+  letter-spacing: 1px;
+}
+
+h3 {
+  color: royalblue;
+  text-decoration: underline;
+  font-family: 'Merriweather', serif;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 10px auto;
+  font-size: large;
+  font-family: 'Merriweather', serif;
+  background-color:mintcream;
+  padding:5px 140px ;
+  
+}
+
+.web-dev {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Programming {
+  height: 30%;
+  width: 30%;
+  float: right;
+  margin-right: 30px;
+}
+
+.vid-pht {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 43px;
+  
+}
+
+.art-pot {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+
+.act-dan {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 40px;
+  padding-bottom: 21px;
+
+
+}
+
+.spr-sci {
+  height: 40%;
+  width: 38%;
+  float: right;
+  margin-right: -58px;
+  margin-top: 12px;
+}
+
+.apk {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  color: grey;
+  width: 82%;
+
+}
+.lp{
+  font-family: 'Merriweather', serif;
+}
+
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 20px auto 20px auto;
+  width: 11%;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+.bottom-container{
+  background-color: oldlace;
+  margin-top: 15px;
+  padding: 10px;
+  padding-top: 24px;
+  font-family: 'Merriweather', serif;
+}  
+
+.footer-link{
+word-spacing: 10px;
+} 
+
+.spn{
+  font-style: italic;
+  color: blue;
+}
